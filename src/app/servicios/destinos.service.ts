@@ -51,7 +51,7 @@ export class DestinosService {
       xid: res.xid,
       name: res.name,
       country: res.address.country,
-      imageurl:'https://w7.pngwing.com/pngs/476/254/png-transparent-travel-agent-hotel-flight-airline-ticket-travel-globe-logo-computer-wallpaper.png'
+      imageurl:'https://img.freepik.com/vector-premium/transporte-ciudad-isometrica-estacion-espera-personas-ilustracion-infografica-transporte-urbano-publicotrafico-ciudad-vector-moderno-concepto-3d-parada-autobus-aislada-sobre-fondo-blanco_87946-2887.jpg'
     }
   }
 
